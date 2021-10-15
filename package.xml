@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package format="2">
+
+	<name>qp_oases</name>
+	<version>1.0.0</version>
+	<description>qpoases-package for ROS</description>
+
+	<author email="dscho15@student.sdu.dk">Daniel Tofte Schøn</author>
+
+	<maintainer email="dscho15@student.sdu.dk">Daniel Tofte Schøn</maintainer>
+
+	<license></license>
+	
+	<url type="repository">https://github.com/martinandrovich/rb-rovi</url>
+
+	<buildtool_depend>catkin</buildtool_depend>
+
+	<depend>roscpp</depend>
+
+</package>
