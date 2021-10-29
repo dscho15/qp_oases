@@ -3,18 +3,18 @@
 
 	<name>qp_oases</name>
 	<version>1.0.0</version>
-	<description>qpoases-package for ROS</description>
+	<description>Port of qpOASES library to ROS</description>
 
 	<author email="dscho15@student.sdu.dk">Daniel Tofte Schøn</author>
-
 	<maintainer email="dscho15@student.sdu.dk">Daniel Tofte Schøn</maintainer>
 
-	<license></license>
+	<license>LGPL-2.1</license>
 	
-	<url type="repository">https://github.com/martinandrovich/rb-rovi</url>
+	<url type="repository">https://github.com/coin-or/qpOASES</url>
+	<url type="repository">https://github.com/startcode/qp-oases</url>
+	<url type="repository">https://github.com/dscho15/qp_oases</url>
 
 	<buildtool_depend>catkin</buildtool_depend>
-
 	<depend>roscpp</depend>
 
 </package>
